@@ -1,4 +1,3 @@
-<?php
-echo 'hola';
+<?php get_headers(); ?>
 
-
+<?php get_footer(); ?>
