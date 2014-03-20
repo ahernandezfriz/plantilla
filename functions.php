@@ -1,7 +1,17 @@
 <?php
 
-require TEMPLATEPATH. 'inc/shortcodes.php';
-require TEMPLATEPATH. 'inc/generales.php';
+/**
+ * Plantilla base
+ * Establece y proporciona algunas funciones auxiliares, que se utilizan en el 
+ * tema como etiquetas de plantilla personalizado.
+ * Otros se unen a acciones y filtros ganchos en WordPress 
+ * para cambiar la funcionalidad básica.   
+ */
+ 
+
+
+require TEMPLATEPATH. '/inc/shortcodes.php';
+require TEMPLATEPATH. '/inc/generales.php';
 
 
 
