@@ -1,4 +1,5 @@
 jQuery(function($){
+    alert('hola');
 
 /*
  * Quita el atributo href de los enlaces

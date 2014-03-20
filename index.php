@@ -1,3 +1,8 @@
-<?php get_headers(); ?>
+<?php get_header(); ?>
 
-<?php get_footer(); ?>
+<div class="content">
+    frontpage
+    
+</div>
+
+<?php get_footer();
